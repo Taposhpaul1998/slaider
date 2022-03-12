@@ -3,6 +3,7 @@ const images = [
     ' image/money (2).jpg',
     ' image/money (3).jpg',
     ' image/money (4).jpg',
+    ' image/money(5).jpg'
 ]
 let imgIndex = 0;
 const imgElement = document.getElementById('slaider');
